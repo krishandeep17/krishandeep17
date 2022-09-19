@@ -7,6 +7,7 @@ Full-Stack Web Developer
 I'm a full-stack developer specializing in frontend and backend development for complex scalable web apps. My interest in web development started back in 2020 when I decided to try editing custom Bootstrap themes — turns out hacking together a custom reblog button taught me a lot about HTML & CSS!
 
 * 🌍  I'm based in New Delhi, India
+* 🖥️  See my portfolio at [https://krishandeep.com](http://krishandeep.com)
 * ✉️  You can contact me at [krishandeep17@gmail.com](mailto:krishandeep17@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on projects
